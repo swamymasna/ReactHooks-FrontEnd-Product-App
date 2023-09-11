@@ -27,12 +27,6 @@ const ListProductsComponent = () => {
         //console.log(prodId)
     }
 
-    const updateProduct = () => {
-        navigate('/edit-product')
-    }
-
-
-
     return (
         <div>
             <h1 className='hdr'> Products List Data</h1>
